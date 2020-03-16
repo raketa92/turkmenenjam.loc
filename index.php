@@ -218,22 +218,6 @@
         </div>
 
 
-
-<!--        <div class="sl-slider">-->
-<!--            <div>-->
-<!--                <img src="images/imgs/solimec_logo.png" alt="">-->
-<!--            </div>-->
-<!--            <div>-->
-<!--                <img src="images/imgs/renaissance_logo2.png" alt="">-->
-<!--            </div>-->
-<!--            <div>-->
-<!--                <img src="images/imgs/PWT_logo_web.png" alt="">-->
-<!--            </div>-->
-<!--            <div>-->
-<!--                <img src="images/imgs/bridge_atamyrat.jpg" alt="">-->
-<!--            </div>-->
-<!--        </div>-->
-
     <!--///////////////////////////////////////////////////////
 
            // End slider section

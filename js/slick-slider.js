@@ -5,12 +5,12 @@
             dots: true,
             arrows: false,
             infinite: true,
-            speed: 500,
+            speed: 2000,
             fade: true,
             cssEase: 'linear',
             // slidesToShow: 3,
-            slidesToScroll: 1
-            // autoplay: true
+            slidesToScroll: 1,
+            autoplay: true
         });
     });
 
@@ -20,7 +20,7 @@
     $(document).ready(function(){
 
         $('.sl-logo-slide-right').slick({
-            dots: true,
+            dots: false,
             arrows: false,
             infinite: true,
             speed: 500,
@@ -28,8 +28,8 @@
             slidesToShow: 4,
             slidesToScroll: 1,
             centerMode: true,
-            variableWidth: true
-            // autoplay: true
+            variableWidth: true,
+            autoplay: true
         });
     });
 
@@ -39,7 +39,7 @@
     $(document).ready(function(){
 
         $('.sl-logo-slide-left').slick({
-            dots: true,
+            dots: false,
             arrows: false,
             infinite: true,
             speed: 500,
@@ -47,9 +47,9 @@
             slidesToShow: 4,
             slidesToScroll: 1,
             centerMode: true,
-            variableWidth: true
+            variableWidth: true,
             // rtl: true
-            // autoplay: true
+            autoplay: true
         });
     });
 

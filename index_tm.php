@@ -20,6 +20,11 @@
   <link rel="stylesheet" type="text/css" href="css/headhesive.css">
   <link href="css/animate.css" rel="stylesheet">
 
+    <!--    slick slider css-->
+    <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+    <!--    // Add the new slick-theme.css if you want the default styling-->
+    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+
   <!-- END THEME STYLE -->
 
   <!-- START FONTELLO ICONS STYLESHEET -->
@@ -44,7 +49,7 @@
   <!-- END MOBILE DETECT -->
 
   <!-- START FAVICON -->
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="images/imgs/logo_favicon_bluewhite.gif">
   <!-- EDN FAVICON -->
 
   <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script><![endif]-->
@@ -98,6 +103,7 @@
                             <a class="menu__links-item" href="index.php#service">SERWIS</a>
                             <a class="menu__links-item" href="index.php#portfolio">TASLAMALAR</a>
                             <a class="menu__links-item" href="index.php#clients_section">HYZMATDAŞLAR</a>
+                            <a class="menu__links-item" href="index.php#contact">HABARLAŞMAK</a>
                             <a class="menu__links-item" href="https://server1666.shneider-host.ru:2096" target="_blank">POÇTA</a>
                         </div>
                     </div>
@@ -118,9 +124,8 @@
                     <a class="w-nav-link menu-li" href="index.php#features">AÝRATYNLYKLAR</a>
                     <a class="w-nav-link menu-li" href="index.php#service">SERWIS</a>
                     <a class="w-nav-link menu-li" href="index.php#portfolio">TASLAMALAR</a>
-<!--                    <a class="w-nav-link menu-li" href="index.php#team">ПЕРСОНАЛ</a>-->
-                    <!--<a class="w-nav-link menu-li" href="shortcodes.html">SHORTCODES</a>-->
                     <a class="w-nav-link menu-li" href="index.php#clients_section">HYZMATDAŞLAR</a>
+                    <a class="w-nav-link menu-li" href="index.php#contact">HABARLAŞMAK</a>
                     <a class="w-nav-link menu-li" href="https://server1666.shneider-host.ru:2096" target="_blank">POÇTA</a>
 
                   </nav>
@@ -148,23 +153,66 @@
     <!-- END SECTION -->
     <!-- END HEADER -->
 
-    <div class="header-parallax" >
-    <div class="slidersection">
+    <div class="sl-slider slider-img1">
+        <div class="header-parallax " >
+            <div class="slidersection">
+                <div class="overlay">
+                    <div class="center fixed-content">
+                        <div class="center-fix">
+                            <h1 class="underline animated fadeInDown">TÜRKMENENJAM</h1>
+                            <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Gurluşyk ulgamyndaky <strong class="">innowasion çözgütler</strong></h4>
+                            <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Funksiýalar</a>
+                            <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Biziň bilen habarlaşmak</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
+        <div class="header-parallax slider-img2" >
+            <div class="slidersection">
+                <div class="overlay">
+                    <div class="center fixed-content">
+                        <div class="center-fix">
+                            <h1 class="underline animated fadeInDown">TÜRKMENENJAM</h1>
+                            <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Gurluşyk ulgamyndaky <strong class="">innowasion çözgütler</strong></h4>
+                            <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Funksiýalar</a>
+                            <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Biziň bilen habarlaşmak</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
+        <div class="header-parallax slider-img3" >
+            <div class="slidersection">
+                <div class="overlay">
+                    <div class="center fixed-content">
+                        <div class="center-fix">
+                            <h1 class="underline animated fadeInDown">TÜRKMENENJAM</h1>
+                            <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Gurluşyk ulgamyndaky <strong class="">innowasion çözgütler</strong></h4>
+                            <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Funksiýalar</a>
+                            <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Biziň bilen habarlaşmak</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-    <div class="overlay">
-
-      <div class="center fixed-content">
-        <div class="center-fix">
-        <h1 class="underline animated fadeInDown">TÜRKMENENJAM</h1>
-        <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Gurluşyk ulgamyndaky <strong class="">innowasion çözgütler</strong></h4>
-        <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Funksiýalar</a>
-        <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Biziň bilen habarlaşmak</a>
-      </div>
-      </div>
-    </div>
-    </div>
+        <div class="header-parallax slider-img4" >
+            <div class="slidersection">
+                <div class="overlay">
+                    <div class="center fixed-content">
+                        <div class="center-fix">
+                            <h1 class="underline animated fadeInDown">TÜRKMENENJAM</h1>
+                            <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Gurluşyk ulgamyndaky <strong class="">innowasion çözgütler</strong></h4>
+                            <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Funksiýalar</a>
+                            <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Biziň bilen habarlaşmak</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
 
@@ -910,71 +958,98 @@
             </p>
         </div>
 
-        <div class="clients-sub">
-
-            <div id="clients">
-
-                <div class="clients-wrap">
-
-                    <ul id="clients-list" class="clearfix clients-ul">
-
-                        <li><img class="partners-img" src="images/imgs/ebawe_logo.png" alt="logo"></li>
-
-                        <li class="li-pwt enlarge-img"><img src="images/imgs/PWT_logo_web.png" alt="logo"></li>
-
-                        <li><img class="partners-img" src="images/imgs/solimec_logo.png" alt="logo"></li>
-
-                        <li class="enlarge-img"><img src="images/imgs/deneyim_logo.png" alt="logo"></li>
-
-
-
-                    </ul>
-
-                </div><!-- @end .clients-wrap -->
-
-            </div><!-- @end #clients -->
-
-        </div>
+<!--        <div class="clients-sub">-->
+<!---->
+<!--            <div id="clients">-->
+<!---->
+<!--                <div class="clients-wrap">-->
+<!---->
+<!--                    <ul id="clients-list" class="clearfix clients-ul">-->
+<!---->
+<!--                        <li><img class="partners-img" src="images/imgs/ebawe_logo.png" alt="logo"></li>-->
+<!---->
+<!--                        <li class="li-pwt enlarge-img"><img src="images/imgs/PWT_logo_web.png" alt="logo"></li>-->
+<!---->
+<!--                        <li><img class="partners-img" src="images/imgs/solimec_logo.png" alt="logo"></li>-->
+<!---->
+<!--                        <li class="enlarge-img"><img src="images/imgs/deneyim_logo.png" alt="logo"></li>-->
+<!---->
+<!---->
+<!---->
+<!--                    </ul>-->
+<!---->
+<!--                </div><!-- @end .clients-wrap -->
+<!---->
+<!--            </div><!-- @end #clients -->
+<!---->
+<!--        </div>-->
 
     </div>
+
+      <div class="w-container">
+          <div class="clients-wrap">
+              <div class="sl-logo-slide-right">
+                  <div class="logo-item"><img class="partners-img logo-optimize-height-img" src="images/imgs/partners/turkmengaz_logo.gif" alt="logo"></div>
+                  <div class="logo-item"><img class="logo-optimize-height-img" src="images/imgs/partners/turkmennebit.png" alt="logo"></div>
+                  <div class="logo-item"><img class="logo-allign-middle_text partners-img" src="images/imgs/partners/suwHojalyk.gif" alt="logo"></div>
+                  <div class="logo-item"><img class="logo-allign-middle partners-img" src="images/imgs/partners/turkmenhimiya.png" alt="logo"></div>
+                  <div class="logo-item"><img class="logo-allign-middle_text" src="images/imgs/partners/gurlusyk.gif" alt="logo"></div>
+                  <div class="logo-item"><img class="logo-allign-middle_text partners-img" src="images/imgs/partners/ashgabathakimlik.gif" alt="logo"></div>
+                  <div class="logo-item"><img class="logo-allign-middle_text partners-img" src="images/imgs/partners/welayathakimlik.gif" alt="logo"></div>
+              </div>
+          </div>
+      </div>
+
+      <div class="w-container ">
+          <div class="sl-logo-slide-left">
+              <div class="logo-item"><img class="logo-allign-middle2 partners-img" src="images/imgs/ebawe_logo.png" alt="logo"></div>
+              <div class="logo-item"><img class="logo-allign-middle2" src="images/imgs/PWT_logo_web.png" alt="logo"></div>
+              <div class="logo-item"><img class="logo-pad-top" src="images/imgs/renaissance_logo2.png" alt="logo"></div>
+              <div class="logo-item"><img class="logo-pad-top" src="images/imgs/ratec_logo2.png" alt="logo"></div>
+              <div class="logo-item"><img src="images/imgs/cnpc_logo.png" alt="logo"></div>
+              <div class="logo-item"><img class="logo-allign-middle2 partners-img" src="images/imgs/solimec_logo.png" alt="logo"></div>
+              <div class="logo-item"><img src="images/imgs/deneyim_logo.png" alt="logo"></div>
+              <div class="logo-item"><img class="logo-pad-top" src="images/imgs/hawkeye_logo.png" alt="logo"></div>
+          </div>
+      </div>
 
   </div>
 
 <!--    ------>
 
-
-<div class="row-back clients_extra">
-
-    <div class="w-container wrap-normal">
-
-        <div class="clients-sub">
-
-            <div id="clients">
-
-                <div class="clients-wrap">
-
-                    <ul id="clients-list2" class="clearfix clients-ul">
-
-
-                        <li class="li-hawkeye"><img src="images/imgs/hawkeye_logo.png" alt="logo"></li>
-
-                        <li><img src="images/imgs/renaissance_logo2.png" alt="logo"></li>
-
-                        <li class="enlarge-img"><img src="images/imgs/ratec_logo2.png" alt="logo"></li>
-
-                        <li id="cnpc-logo"><img src="images/imgs/cnpc_logo.png" alt="logo"></li>
-
-                    </ul>
-
-                </div><!-- @end .clients-wrap -->
-
-            </div><!-- @end #clients -->
-
-        </div>
-
-    </div>
-
-</div>
+<!---->
+<!--<div class="row-back clients_extra">-->
+<!---->
+<!--    <div class="w-container wrap-normal">-->
+<!---->
+<!--        <div class="clients-sub">-->
+<!---->
+<!--            <div id="clients">-->
+<!---->
+<!--                <div class="clients-wrap">-->
+<!---->
+<!--                    <ul id="clients-list2" class="clearfix clients-ul">-->
+<!---->
+<!---->
+<!--                        <li class="li-hawkeye"><img src="images/imgs/hawkeye_logo.png" alt="logo"></li>-->
+<!---->
+<!--                        <li><img src="images/imgs/renaissance_logo2.png" alt="logo"></li>-->
+<!---->
+<!--                        <li class="enlarge-img"><img src="images/imgs/ratec_logo2.png" alt="logo"></li>-->
+<!---->
+<!--                        <li id="cnpc-logo"><img src="images/imgs/cnpc_logo.png" alt="logo"></li>-->
+<!---->
+<!--                    </ul>-->
+<!---->
+<!--                </div><!-- @end .clients-wrap -->
+<!---->
+<!--            </div><!-- @end #clients -->
+<!---->
+<!--        </div>-->
+<!---->
+<!--    </div>-->
+<!---->
+<!--</div>-->
 
 
     <!--///////////////////////////////////////////////////////
@@ -1002,7 +1077,7 @@
 
 
 
-     <div class="footer row-back white_back" id="contact">
+     <div class="footer row-gree" id="contact">
          <div class="footer_text">
              <strong>Salgy</strong><br><br><br><br>
              <p>Baba Annanow köç. 157</p><br>
@@ -1015,7 +1090,7 @@
              </div>
          </div>
 
-         <div class="w-container wrap-normal center footer_copyright"><span>© </span><span class=""><strong>Turkmen Enjam HJ</strong></span> <? echo(date("Y")); ?> </div>
+         <div class="w-container wrap-normal center footer_copyright"><span>© </span><span class=""><strong>Türkmen Enjam HJ</strong></span> <? echo(date("Y")); ?> </div>
 
      </div>
 
@@ -1041,6 +1116,10 @@
   <script src="js/headhesive.min.js"></script>
   <script src="js/waypoints.min.js"></script>
   <script src="js/scripts.js"></script>
+
+  <script type="text/javascript" src="slick/slick.min.js"></script>
+
+  <script type="text/javascript" src="js/slick-slider.js"></script>
 
 <!--   END JQUERY PLUGINS LOAD-->
 <!--    START OF BITRIX24 ONLINE CHAT-->
