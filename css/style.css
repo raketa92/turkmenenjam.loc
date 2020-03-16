@@ -190,15 +190,15 @@ padding: 100px 0 90px;
 }
 
 .header-parallax {
-  background: url(../images/imgs/factory14.jpg);
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: bottom;
-  margin: auto;
+  //background: url(../images/imgs/factory14.jpg);
+  /*background-size: cover;*/
+  /*background-attachment: fixed;*/
+  /*background-position: bottom;*/
+  /*margin: auto;*/
 }
 
 .header-parallax {
-  height: 580px;
+  height: 580px !important;
 }
 
 .opcaity {
@@ -304,8 +304,8 @@ h1.underline-dotted,h2.underline-dotted,h3.underline-dotted,h4.underline-dotted 
   margin-bottom: 0;
   padding-top: 0;
   border-bottom: 0 none #e03163;
-  background-image: 0;
-  background-image: 0;
+  /*background-image: 0;*/
+  /*background-image: 0;*/
   background-image: linear-gradient(white,white);
   box-shadow: none;
 }
@@ -469,7 +469,7 @@ background: #FFFFFF !important;
   background:rgba(0, 0, 0, 0.2) url(../images/pattern.png) repeat;
   position: absolute;
   width: 100%;
-  top: 80px;
+  /*top: 80px;*/
   height: 580px;
 }
 
@@ -1411,7 +1411,7 @@ top: 1px;
   }
 
   .overlay {
-    top: 96px;
+    /*top: 96px;*/
   }
 
   .w-row {
@@ -1757,7 +1757,7 @@ top: 1px;
   }
 
   .overlay {
-    top: 58px;
+    /*top: 58px;*/
   }
 
   .w-row {
@@ -2760,6 +2760,13 @@ top: 1px;
     display: inline-block;
     position: fixed;
   }
+
+  .banner {
+    font-size: 15px !important;
+  }
+  .w-container {
+    max-width: 974px;
+  }
 }
 
 
@@ -2922,6 +2929,103 @@ top: 1px;
   color: #0e3f71 !important;
 }
 
+/*.footer_text strong, .footer_copyright, .social-footter i {*/
+  /*color: #0e3f71 !important;*/
+/*}*/
+
 .footer_text strong, .footer_copyright, .social-footter i {
-  color: #0e3f71 !important;
+  color: #ecf0f1 !important;
+}
+
+.slider-img1 {
+  background: url(../images/imgs/factory14.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: bottom;
+  margin: auto;
+}
+
+.slider-img2 {
+  background: url(../images/imgs/slider/himzawod3.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: bottom;
+  margin: auto;
+}
+
+.slider-img3 {
+  background: url(../images/imgs/slider/gas_compressor3.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: bottom;
+  margin: auto;
+}
+
+.slider-img4 {
+  background: url(../images/imgs/slider/hydro.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: bottom;
+  margin: auto;
+}
+
+.logo-item {
+  width: 200px !important;
+  margin: 0 20px !important;
+  position: relative !important;
+}
+
+.logo-item img {
+  width: 100%;
+}
+
+.sl-logo-slide-left {
+  margin-top: 5%;
+}
+
+.logo-optimize-height-img {
+  height: 160px !important;
+}
+
+.logo-allign-middle {
+  margin-top: 20%;
+  height: 70px;
+}
+
+.logo-allign-middle2 {
+  margin-top: 8%;
+  height: 70px;
+}
+
+.logo-pad-top {
+  margin-top: 17%;
+}
+
+.logo-allign-middle_text {
+  height: 60px !important;
+  margin-top: 30% !important;
+}
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+  .logo-item {
+    margin: 0 54px !important;
+  }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 992px) {
+  .logo-item {
+    margin: 0 54px !important;
+  }
+}
+
+@media screen and (max-width: 1080px) and (min-width: 1025px) {
+  .logo-item {
+    margin: 0 60px !important;
+  }
+}
+
+@media screen and (max-width: 1169px) and (min-width: 1081px) {
+  .logo-item {
+    margin: 0 80px !important;
+  }
 }
