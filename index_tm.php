@@ -49,7 +49,7 @@
   <!-- END MOBILE DETECT -->
 
   <!-- START FAVICON -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/imgs/logo_favicon_bluewhite.gif">
+    <link rel="shortcut icon" type="image/x-icon" href="images/imgs/logo_favicon_bluegray.gif">
   <!-- EDN FAVICON -->
 
   <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script><![endif]-->
