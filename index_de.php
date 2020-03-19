@@ -7,11 +7,11 @@
   <title>TurkmenEnjam</title>
   <!-- END TITLE -->
 
-    <!-- START META, DESCRIPTION, KEYWORDS, AUTHOR -->
-    <meta name="description" content="Desgalaryň gurluşygy, zawodlaryň we edalaryň durkuny täzeleme" />
-    <meta name="keywords" content="Gurluşyk, durkuny täzeleme, abatlama" />
-    <!--  <meta name="author" content="carinotechnologies" />-->
-    <!-- END META, DESCRIPTION, KEYWORDS, AUTHOR -->
+  <!-- START META, DESCRIPTION, KEYWORDS, AUTHOR -->
+  <meta name="description" content="Bau von Einrichtungen, Wiederaufbau von Fabriken und Unternehmen" />
+  <meta name="keywords" content="Bau, Wiederaufbau" />
+<!--  <meta name="author" content="carinotechnologies" />-->
+  <!-- END META, DESCRIPTION, KEYWORDS, AUTHOR -->
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- START THEME STYLE -->
@@ -20,9 +20,9 @@
   <link rel="stylesheet" type="text/css" href="css/headhesive.css">
   <link href="css/animate.css" rel="stylesheet">
 
-    <!--    slick slider css-->
+<!--    slick slider css-->
     <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
-    <!--    // Add the new slick-theme.css if you want the default styling-->
+<!--    // Add the new slick-theme.css if you want the default styling-->
     <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
 
   <!-- END THEME STYLE -->
@@ -49,7 +49,7 @@
   <!-- END MOBILE DETECT -->
 
   <!-- START FAVICON -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/imgs/logo_favicon_bluegray.gif">
+  <link rel="shortcut icon" type="image/x-icon" href="images/imgs/logo_favicon_bluegray.gif">
   <!-- EDN FAVICON -->
 
   <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script><![endif]-->
@@ -63,7 +63,7 @@
     <div tabindex="1000" style="overflow-y: auto;" id="boxscroll">
 
         <div class="dropdown">
-            <div class="dropbtn tm_flag"></div>
+            <div class="dropbtn de_flag"></div>
             <div class="dropdown-content">
                 <a href="index.php">RU</a>
                 <a href="index_tm.php">TM</a>
@@ -84,7 +84,7 @@
             <!-- START COLUMN 3 -->
             <div class="w-col w-col-3 logo">
               <!-- START LOGO -->
-              <a href="."><img class="logo" src="images/imgs/logo_Turkmen_Enjam2.png" alt="FLAT ASPHALT"></a>
+              <a href="."><img class="logo" src="images/imgs/logo_Turkmen_Enjam2.png" alt="Turkmen enjam"></a>
               <!-- END LOGO -->
             </div><!-- END COLUMN 3 -->
 
@@ -99,13 +99,13 @@
                         </div>
 
                         <div class="menu__links">
-                            <a class="menu__links-item" href="#home">BAŞ SAHYPA</a>
-                            <a class="menu__links-item" href="index.php#features">AÝRATYNLYKLAR</a>
-                            <a class="menu__links-item" href="index.php#service">SERWIS</a>
-                            <a class="menu__links-item" href="index.php#portfolio">TASLAMALAR</a>
-                            <a class="menu__links-item" href="index.php#clients_section">HYZMATDAŞLAR</a>
-                            <a class="menu__links-item" href="index.php#contact">HABARLAŞMAK</a>
-                            <a class="menu__links-item" href="https://server1666.shneider-host.ru:2096" target="_blank">POÇTA</a>
+                            <a class="menu__links-item" href="#home">HAUPTSEITE</a>
+                            <a class="menu__links-item" href="index.php#features">FUNKTIONEN</a>
+                            <a class="menu__links-item" href="index.php#service">SERVICE</a>
+                            <a class="menu__links-item" href="index.php#portfolio">PROJEKTE</a>
+                            <a class="menu__links-item" href="index.php#clients_section">PARTNER</a>
+                            <a class="menu__links-item" href="index.php#contact">KONTAKTDATEN</a>
+                            <a class="menu__links-item" href="https://server1666.shneider-host.ru:2096" target="_blank">E-MAIL</a>
                         </div>
                     </div>
                 </div>
@@ -121,23 +121,15 @@
                   <!-- START NAVIGATION LINKS -->
                   <nav class="w-nav-menu nav-menu" role="navigation">
 
-                    <a class="w-nav-link menu-li" href="#home">BAŞ SAHYPA</a>
-                    <a class="w-nav-link menu-li" href="index.php#features">AÝRATYNLYKLAR</a>
-                    <a class="w-nav-link menu-li" href="index.php#service">SERWIS</a>
-                    <a class="w-nav-link menu-li" href="index.php#portfolio">TASLAMALAR</a>
-                    <a class="w-nav-link menu-li" href="index.php#clients_section">HYZMATDAŞLAR</a>
-                    <a class="w-nav-link menu-li" href="index.php#contact">HABARLAŞMAK</a>
-                    <a class="w-nav-link menu-li" href="https://server1666.shneider-host.ru:2096" target="_blank">POÇTA</a>
+                    <a class="w-nav-link menu-li" href="#home">HAUPTSEITE</a>
+                    <a class="w-nav-link menu-li" href="index.php#features">FUNKTIONEN</a>
+                    <a class="w-nav-link menu-li" href="index.php#service">SERVICE</a>
+                    <a class="w-nav-link menu-li" href="index.php#portfolio">PROJEKTE</a>
+                    <a class="w-nav-link menu-li" href="index.php#clients_section">PARTNER</a>
+                    <a class="w-nav-link menu-li" href="index.php#contact">KONTAKTDATEN</a>
+                    <a class="w-nav-link menu-li" href="https://server1666.shneider-host.ru:2096" target="_blank">E-MAIL</a>
 
                   </nav>
-                  <!-- END NAVIGATION LINKS -->
-
-                  <!-- START MOBILE NAVIGATION BUTTON * DO NOT DELETE THIS DIV* -->
-<!--                  <div class="w-nav-button">-->
-<!--                    <div class="w-icon-nav-menu"></div>-->
-<!--                  </div><!-- END MOBILE NAVIGATION BUTTON -->
-
-                    <!-- Top Navigation Menu -->
 
                 </div>
                 <!-- END CONTAINER -->
@@ -154,67 +146,67 @@
     <!-- END SECTION -->
     <!-- END HEADER -->
 
-    <div class="sl-slider slider-img1">
-        <div class="header-parallax " >
-            <div class="slidersection">
-                <div class="overlay">
-                    <div class="center fixed-content">
+        <div class="sl-slider slider-img1">
+            <div class="header-parallax " >
+                <div class="slidersection">
+                    <div class="overlay">
+                      <div class="center fixed-content">
                         <div class="center-fix">
-                            <h1 class="underline animated fadeInDown">TÜRKMENENJAM</h1>
-                            <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Gurluşyk ulgamyndaky <strong class="">innowasion çözgütler</strong></h4>
-                            <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Funksiýalar</a>
-                            <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Biziň bilen habarlaşmak</a>
+                            <h1 class="underline animated fadeInDown">TURKMENENJAM</h1>
+                            <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Innovative Lösungen <strong class="">im Baubereich</strong></h4>
+                            <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Funktionen</a>
+                            <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Kontaktieren Sie uns</a>
                         </div>
+                      </div>
                     </div>
                 </div>
             </div>
-        </div>
 
-        <div class="header-parallax slider-img2" >
-            <div class="slidersection">
-                <div class="overlay">
-                    <div class="center fixed-content">
-                        <div class="center-fix">
-                            <h1 class="underline animated fadeInDown">TÜRKMENENJAM</h1>
-                            <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Gurluşyk ulgamyndaky <strong class="">innowasion çözgütler</strong></h4>
-                            <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Funksiýalar</a>
-                            <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Biziň bilen habarlaşmak</a>
+            <div class="header-parallax slider-img2" >
+                <div class="slidersection">
+                    <div class="overlay">
+                        <div class="center fixed-content">
+                            <div class="center-fix">
+                                <h1 class="underline animated fadeInDown">TURKMENENJAM</h1>
+                                <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Innovative Lösungen <strong class="">im Baubereich</strong></h4>
+                                <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Funktionen</a>
+                                <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Kontaktieren Sie uns</a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
 
-        <div class="header-parallax slider-img3" >
-            <div class="slidersection">
-                <div class="overlay">
-                    <div class="center fixed-content">
-                        <div class="center-fix">
-                            <h1 class="underline animated fadeInDown">TÜRKMENENJAM</h1>
-                            <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Gurluşyk ulgamyndaky <strong class="">innowasion çözgütler</strong></h4>
-                            <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Funksiýalar</a>
-                            <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Biziň bilen habarlaşmak</a>
+            <div class="header-parallax slider-img3" >
+                <div class="slidersection">
+                    <div class="overlay">
+                        <div class="center fixed-content">
+                            <div class="center-fix">
+                                <h1 class="underline animated fadeInDown">TURKMENENJAM</h1>
+                                <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Innovative Lösungen <strong class="">im Baubereich</strong></h4>
+                                <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Funktionen</a>
+                                <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Kontaktieren Sie uns</a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
 
-        <div class="header-parallax slider-img4" >
-            <div class="slidersection">
-                <div class="overlay">
-                    <div class="center fixed-content">
-                        <div class="center-fix">
-                            <h1 class="underline animated fadeInDown">TÜRKMENENJAM</h1>
-                            <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Gurluşyk ulgamyndaky <strong class="">innowasion çözgütler</strong></h4>
-                            <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Funksiýalar</a>
-                            <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Biziň bilen habarlaşmak</a>
+            <div class="header-parallax slider-img4" >
+                <div class="slidersection">
+                    <div class="overlay">
+                        <div class="center fixed-content">
+                            <div class="center-fix">
+                                <h1 class="underline animated fadeInDown">TURKMENENJAM</h1>
+                                <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Innovative Lösungen <strong class="">im Baubereich</strong></h4>
+                                <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Funktionen</a>
+                                <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Kontaktieren Sie uns</a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
 
 
     <!--///////////////////////////////////////////////////////
@@ -222,8 +214,6 @@
            // End slider section
 
            //////////////////////////////////////////////////////////-->
-
-
 
       <div id="features">
 
@@ -233,9 +223,9 @@
 
               <div class="center">
 
-                <h2 class="underline">BIZIŇ ESASY <span class="">WEZIPELERIMIZ</span></h2>
+                <h2 class="underline">UNSERE <span class="">HAUPTFUNKTIONEN</span></h2>
 
-                <p><strong>«Turkmen enjam» HJ</strong> Türkmenistanda alnyp barylýan gurluşyklaryň gerimleri boýunça öňdebaryjy orunlaryň birinde mäkäm ornaşandyr.</p>
+                <p><strong>Das Unternehmen «Turkmen enjam»</strong> ist eines der führenden Unternehmen in Bezug auf das Bauvolumen in Turkmenistan</p>
 
               </div>
 
@@ -245,12 +235,11 @@
 
                   <i class="thumbs-upelegance-icons-"></i>
 
-                  <h4 class="icons-heading">HÜNÄR USSATLYLYGY</h4>
+                  <h4 class="icons-heading">Professionalität</h4>
 
                   <p>
 
-                      Işe bolan hünär taýdan çemeleşme hem-de jogapkärçiligiň ýokary derejesi gurluşyk önümini döretmäge mümkinçilik döblueýär, bu babatda buýrujylar, ýerine ýetrijiler we
-                      ahyrky peýdalanyjylar buýsanýarlar.
+                      Ein professioneller Geschäftsansatz und ein hohes Maß an Verantwortung ermöglichen es Ihnen, letztendlich ein Bauprodukt zu schaffen, auf das Kunden, Bauunternehmer und Endverbraucher zu Recht stolz sind.
 
                   </p>
 
@@ -264,12 +253,12 @@
 
                   <i class="clockelegance-icons-"></i>
 
-                  <h4 class="icons-heading">MÖHLETLER</h4>
+                  <h4 class="icons-heading">Bedingungen</h4>
 
                   <p>
 
-                      Möhletleriň we borçnamalaryň berjaý edilmegi – buýrujylar bilen özara gatnaşyklaryň islendik mazmunynyň aýrylmaz şertidir. Biz sebitdäki ykjamlygyň, hünär ussatlygynyň
-                      we bäsdeşlige ukyplylygyň iň ýokary derejeli öňdebaryjy gurluşyk kompaniýasy bolup durýarys.
+                      Die Einhaltung von Fristen und Verpflichtungen ist ein wesentliches Merkmal jedes Interaktionsschemas mit Kunden. Wir sind ein führendes Bauunternehmen auf regionaler Ebene mit einem Höchstmaß
+                      an Mobilität, Professionalität und Wettbewerbsfähigkeit.
 
                   </p>
 
@@ -283,13 +272,14 @@
 
                   <i class="userelegance-icons-"></i>
 
-                  <h4 class="icons-heading">MÜŞDERILER</h4>
+                  <h4 class="icons-heading">Kunden</h4>
 
                   <p>
 
-                      Müşderiler biz üçin möhüm işewürlik hyzmatdaşlarydyr, biz olar bilen uzak möhletleýin esasda ynamly özara gatnaşyklaryny döretmäge jan edýäris.
-                      Tejribä we hünär ussatlygyna esaslanyp, "Türkmen enjam" HJ her bir buýrujy babatda aýratyn çemeleşmäni tapmak, her birine amatly bolan hyzmatdaşlygyň görnüşini,
-                      özara gatnaşyklaryň oňaýly we ygtybarly usullaryny teklip etmek babatda yhlas edýär.
+                      Kunden sind für uns wichtige Geschäftspartner, mit denen wir langfristig vertrauensvolle Beziehungen aufbauen wollen.
+                      Basierend auf Erfahrung und Professionalität versucht das Unternehmen "Turkmen enjam", einen individuellen Ansatz für
+                      jeden Kunden zu finden, um eine bequeme Option für jede Art von Zusammenarbeit, eine optimale und flexible Art der Beziehungen anzubieten.
+
                   </p>
 
                 </div>
@@ -312,14 +302,13 @@
 
               <div class="center">
 
-                <h1 class="underline">BIZIŇ ÜSTÜNLIGIMIZ</h1>
+                <h1 class="underline">Unser erfolg</h1>
 
-                <h4><strong class="">TÜRKMEN ENJAMDAKY </strong>IŞLERIŇ HEMMESI YNSAPLYLYK  BILEN ÝERINE ÝETIRILÝÄR.</h4>
+                <h4>Alle arbeiten in <strong class="">turkmen Enjam </strong>werden in gutem glauben gemacht.</h4>
 
                 <p>
-                    Taslamalaşdyrmadan başlap desgany ulanmaga taýýar edip tabşyrylýança tejribeli tehniki hünär ussatlary elmydama öz mümkinçiliklerine ynamly hem-de gurluşyk we
-                    gurnama çäreleriniň geçrilmegini iň ýokary derejede üpjün ederlikli ýagdaýda bolup, şol bir wagtda geçirilýän işleriň birkemsiz hiliniň bellenilen möhletlerde
-                    ýerine ýetrilmegini üpjün edýärler.
+                    Von der Planung bis zur Fertigstellung eines schlüsselfertigen Projekts ist ein Team erfahrener technischer Fachleute stets von ihren Fähigkeiten überzeugt und kann sicherstellen,
+                    dass die Bau- und Installationsaktivitäten auf höchstem Niveau ausgeführt werden. Gleichzeitig wird die Qualität der rechtzeitig durchgeführten Arbeit sichergestellt.
                 </p>
 
               </div>
@@ -344,10 +333,10 @@
 
                     <h2><strong><span class="blue">50%</span></strong></h2>
 
-                    <h4>SELJERME</h4>
+                    <h4>Analyse</h4>
 
                     <p>
-                        Gurluşyk desgalarynyň we inžener ulgamlarynyň barlagy.
+                        Inspektion von Gebäudestrukturen und technischen Systemen.
                     </p>
 
                   </div>
@@ -362,12 +351,12 @@
 
                     <h2><strong><span class="blue">70%</span></strong></h2>
 
-                    <h4>IŞLENILIP TAÝÝARLAMA</h4>
+                    <h4>Entwicklung</h4>
 
                     <p>
-                        Eskiz taslamasynyň işlenilip taýýarlanylmagy – geljekki desganyň esasy ölçegleriniň kesgitlenilmegi we işlenilip taýýarlanylmagydyr: onuň binagärligi, stili,
-                        daşky görnüşiniň we içki gurluşynyň esasy ugry. Olar buýruja geljekki desga boýunça jikme-jik düşünje almaga, şeýle hem taslamanyň tehniki-ykdysady görkezijilerini
-                        bilmäge mümkinçilik berýär, bu bolsa taslamanyň bolmagynyň resminamalaýyn tassyklamasyny berýär.
+                        Die Entwicklung eines vorläufigen Entwurfs ist die Entwicklung und Bestimmung der Hauptparameter des zukünftigen Objekts: Architektur, Stil, Grundkonzept des Erscheinungsbilds und
+                        interne Planung, die es dem Kunden ermöglichen, eine detaillierte Vorstellung von der zukünftigen Struktur sowie der technischen Struktur zu erhalten und Wirtschaftsindikatoren
+                        des Projekts, die dokumentarische Beweise für die Fähigkeiten des Projekts liefern.
                     </p>
 
                   </div>
@@ -382,10 +371,10 @@
 
                     <h2><strong><span class="blue">90%</span></strong></h2>
 
-                    <h4>GEÇIRME WE GURNAMA</h4>
+                    <h4>Verlegung und installation</h4>
 
                     <p>
-                        Desganyň gurluşygy we taslamanyň ýerine ýetrilmeginiň indiki gözegçiligi.
+                        Bau der Anlage und anschließende Überwachung des Projekts.
                     </p>
 
                   </div>
@@ -400,10 +389,10 @@
 
                     <h2><strong><span class="blue">100%</span></strong></h2>
 
-                    <h4>DESGANYŇ TABŞYRYLMAGY</h4>
+                    <h4>Inbetriebnahme</h4>
 
                     <p>
-                        Taýýar desgany ulanyşa tabşyrmak.
+                        Inbetriebnahme der fertigen Anlage
                     </p>
 
                   </div>
@@ -438,7 +427,7 @@
 
           <div class="w-container wrap">
             <div class="center">
-              <h1 class="underline no-margin">BIZIŇ HYZMATLARYMYZ</h1>
+              <h1 class="underline no-margin">Unsere dienstleistungen</h1>
             </div>
             </div>
 
@@ -450,11 +439,11 @@
 
             <div class="center">
 
-            <h2>BIZ <span class="">NÄME</span> EDÝÄRIS</h2>
+            <h2>Was <span class="">wir</span> tun</h2>
 
             <p>
-                Islendik çylşyrymlylyk derejesindäki taslamalary güýjümizi, ussatlygymyzy we tejribämizi doly ulanmak bilen gurýarys hem-de durmuşa geçirýäris. Biziň
-                hünärmenlerimiz islendik işi kämillige ýetirip bilýärler, adaty bolmadyk meseleleri çözmäge döblueijilikli çemeleşýärler.
+                Wir bauen und implementieren Projekte jeder Komplexität mit dem vollen Einsatz von Stärke, Können und Erfahrung.
+                <br>Unsere Experten sind in der Lage, jedes Detail zu perfektionieren und nicht standadisierte Aufgaben kreativ zu lösen.
             </p>
 
           </div>
@@ -464,8 +453,8 @@
                 <div class="right wp8">
 
                   <p>
-                      Taslama düzülende, gurluşykda we durkuny täzelemekde, şeýle hem zawodlar tehnologiki taýdan dolulygyna gaýtadan enjamlaşdyrylanda taslamasy düzülýän senagat jaýlarynyň
-                      öz häsiýetli aýratynlyklary bolup, olary dürli kärhanalaryň önümçilik sehleri üçin gurluşyk taslamalary işlenip düzülende nazara almak zerurdyr.
+                      Bei der Planung, dem Bau und der Rekonstruktion, sowie bei der kompletten technologischen Umrüstung von Fabriken, weisen die entworfenen Industrieräume ihre eigenen
+                      charakteristischen Merkmale auf, die bei der Entwicklung von Bauprojekten für die Produktionshallen verschiedenen Unternehmen berücksichtigt werden müssen.
                   </p>
 
                   <!--<a class="button wp8 delay-05s">Read More</a>-->
@@ -479,9 +468,8 @@
                 <div class="left wp7">
 
                   <p>
-                      Taslamanyň taýýarlanylmagy geljekki önümçilik işiniň ähli düzüjilerini saýlamakdan başlanýar, olar seh jaýynyň ölçeglerine laýyklykda desganyň berlen meýdanynda
-                      mümkin boldugyndan amatly edip ýerleşdirilmelidir. Bu minimal ykdysady harajatlar we wagtlaýyn çykdajylar bilen ygtybarly, öndürijiliklii we uzak möhletleýin kärhanany
-                      döretmek üçin zerurdyr.
+                      Die Vorbereitung des Projekts beginnt mit der Auswahl aller Komponenten des zukünftigen Produktionsprozesses, die gemäß den Parametern des Werkstattgeländes optimal auf dem bereitgestellten
+                      Anlagenbereich platziert werden sollen. Dies ist notwendig, um ein zuverlässiges, produktives und dauerhaftes Unternehmen mit minimalen wirtschaftlichen Kosten und Zeitkosten zu schaffen.
                   </p>
 
                   <!--<a class="button border wp7 delay-05s">Buy Now!</a>-->
@@ -498,13 +486,13 @@
 
                   <img src="images/services/branding_blue.png" alt="design">
 
-                  <h3 class="underline">TASLAMALAŞDYRMA</h3>
+                  <h3 class="underline">Entwerfen</h3>
 
                   <p>
-                      "Türkmen enjam" HJ ulanyşa doly taýýar etmek boýunça taslamalaşdyrma hyzmatlaryny hödürleýär. Taslamalaşdyrma – bu belli bir düzümi, ýagny döwürleriniň hem-de
-                      tapgyrlarynyň yzygiderliligi we düzümi, iş tertipleriniň hem-de çekilýän tehniki serişdeleriň jemi bolan işdir. Dürli çylşyrymlylyk derejesindäki taslamalary
-                      durmuşa geçirmek tejribesi, taslama işleriniň awtomatlaşdyrylmagynyň ýokary derejesi, şeýle hem taslama resminamalaryny dolandyrmagyň ýola goýlan ulgamy biziň
-                      kompaniýamyzyň hünärmenlerine gysga möhletlerde ýokary hilli taslama resminamalaryny işläp taýýarlamaga mümkinçilik berýär.
+                      Das Unternehmen "Turkmen enjam" bietet schlüsselfertige Designdienstleistungen an. Design ist ein Prozess, mit einer bestimmten Struktur, dh der Abfolge und Zusammensetzung von Stufen
+                      und Phasen, einer Reihe von Verfahren und technischen Mitteln. Die Erfahrung in der Umsetzung von Projekten unterschiedlicher Komplexität, ein hohes Maß an Automatisierung
+                      der Projektaktivitäten, sowie ein gut funktionierendes projektdokumentationsmanagementsystem ermöglichen es unseren Spezialisten, in kurzer Zeit eine qualitativ hochwertige
+                      Projektdokumentation zu entwickeln.
                   </p>
 
                 </div>
@@ -517,13 +505,12 @@
 
                   <img src="images/imgs/vehicle_crop_blue.png" style="border-radius: 50%; background: #FFCE54;" alt="construction">
 
-                  <h3 class="underline">GURLUŞYK</h3>
+                  <h3 class="underline">Konstruktion</h3>
 
                   <p>
-                      "Türkmen enjam" HJ häzirki zaman tehnologiýalary boýunça senagat we raýat desgalarynyň gurluşygy bilen meşgullanýar. Ýokary hilli gurluşygyň köpýyllyk tejribesine
-                      esaslanyp, biz dünýäniň häzirki zaman tehnologiýalary boýunça desgalary bina edýäris. Hut ýerine ýetirilýän hyzmatlaryň HILI biziň işimiziň esasy häsiýetnamasydyr.
-                      "Türkmen enjam" HJ özüniň her bir buýrujysy üçin hünär ussatlygynyň, ygtybarlygyň we aýdyňlygyň girewi bolmak bilen, islendik çylşyrymlykdaky we gerimdäki desgalary
-                      gurmak boýunça buýruja iň gowy hyzmatlary hödürlemegi özüne maksat edinýär.
+                      Das Unternehmen "Turkmen enjam" beschäftigt sich mit dem Bau von Industrie- und Zivilanlagen mit modernen Technologien. Basierend auf langjährige Erfahrung im hochwertigen Bauen produzieren
+                      wir Anlagen mit modernen Technologien. Die QUALITÄT der erbrachten Dienstleistungen ist das Hauptmerkmal unserer Aktivitäten. "Turkmen enjam" zielt darauf ab, dem Kunden den besten Service
+                      für den Bau von Anlagen jeder Komplexität und Größenordnung zi bieten als Garant für Professionalität, Zuverlässigkeit und Transparenz für jeden seiner Kunden zu fungieren.
                   </p>
 
                 </div>
@@ -536,15 +523,14 @@
 
                   <img src="images/imgs/reconstruction_crop_blue.png" style="border-radius: 50%; background: #A0D468;" alt="reconstruction">
 
-                  <h3 class="underline">DURKUNY TÄZELEME</h3>
+                  <h3 class="underline">Wiederaufbau</h3>
 
                   <p>
-                      "Türkmen enjam" HJ-niň binalaryň we desgalaryň durkuny täzelemekde uly tejribesi bar: niýetlenilen ugruny bölekleýin ýa-da doly üýtgetmek maksady bilen gaýtadan salmak,
-                      täze netijeli enjamlary gurnamak, çäkdäki jaýlaryň ýagdaýyny gowulandyrmak, häzirki zaman ösen kadalaşdyryjy talaplara gabat getirmek. Kärhanalaryň tehniki taýdan
-                      gaýtadan enjamlaşdyrylmagy geçirilende hem binalaryň we desgalaryň durkuny täzelemek amala aşyrylýar, bu bolsa durkuny täzelemek boýunça işler tamamlanandan soňra
-                      önümçilik kuwwatlyklaryny ýokarlandyrmaga ýol berýär.
-                      Durkuny täzelemek jaýlaryň gurluşynyň üýtgedilmegini we beýikliginiň artdyrylmagyny, gurluşlaryň berkleşdirilmegini, bölekleýin sökülmegini we çalşyrylmagyny, şeýle
-                      hem üstünden salynmagyny, goşmaça jaýlaryň gurulmagyny we binalaryň öň tarapynyň gowulandyrylmagyny öz içine alýar.
+                      Das Unternehmen "Turkmen enjam" verfügt umfangreiche Erfahrung im Wiederaufbau von Gebäuden und Bauwerken. Wiederaufbau, um den funktionalen Zweck teilweise oder vollständig zu ändern,
+                      neue effiziente Geräte zu installieren, die Entwicklung von Gebieten zu verbessern und sie an die modernen erhöhten regulatorischen Anforderungen anzupassen. Der Wiederaufbau von Gebäuden
+                      und Bauwerken erfolgt während der technischen Umrüstung von Unternehmen, wodurch die Produktionskapazität nach Abschluss des Umbaus erhöht werden kann.
+                      Der Wiederaufbau umfasst die Neuplanung und Vergrößerung der Räumlichkeiten, die Verstärkung, teilweise Demontage und den Austausch von Bauwerken sowie den Aufbau, die Erweiterung und die
+                      Verbesserung von Gebäudefassaden.
                   </p>
 
                 </div>
@@ -585,9 +571,9 @@
 
             <div class="center">
 
-              <h1 class="underline">BIZIŇ HOŞAL MÜŞDERILERIMIZ</h1>
+              <h1 class="underline">Unsere angenehmen kunden</h1>
 
-              <p><strong class="">Müşderileriň</strong> biz hakda ýazýanlary</p>
+              <p>Was <strong class="">Kunden</strong> über uns schreiben</p>
 
             </div>
 
@@ -602,11 +588,11 @@
                 <blockquote>
 
                   <p>
-                      Hemme işler Türkmenistanyň GKweD, Ýewropa standartlaryna laýyklykda ýokary hilli ýerine ýetirildi. Ýerine ýetirilen işleriň hili "Körpeje" GÇM-niň düýpli gurluşyk
-                      bölümi tarapyndan barlanylyp, "Türkmen enjam" HJ-niň ýerine ýetiren işlerine gowy baha berildi.
+                      Alle Arbeiten wurden effizient gemäß dem SNiP von Turkmenistan und europäischen Standards durchgeführt. Die Qualität der durchgeführten Arbeiten wurde von der Abteilung für Kapitalbau
+                      der GPU Körpeje überprüft, und die Qualität vom Unternehmen "Turkmen enjam" durchgeführten Arbeiten wurde gut bewertet.
                   </p>
 
-                  <footer>"Türkmennebit" döwlet konserni</footer>
+                  <footer>Staatsbedenken "Turkmennebit"</footer>
 
                 </blockquote>
 
@@ -619,7 +605,7 @@
                 <blockquote>
 
                   <p>
-                      "GP Global Equipment Limited" kompaniýasy (Аngliýa) "Türkmen enjam" HJ-ni gurluşyk we elektrogurnama işlerini ýerine ýetirmek boýunça işewür hyzmatdaş hökmünde maslahat berýär.
+                      Die "GP Global Equipment Limited" (England) empfiehlt das Unternehmen "Turkmen enjam" als Geschäftspartner für Bau- und Elektroarbeiten.
                   </p>
 
                   <footer>GP Global Equipment Limited</footer>
@@ -635,8 +621,8 @@
                 <blockquote>
 
                   <p>
-                      Hyzmatdaşlyk döwründe "Türkmen enjam" HJ özüni hemme işleri ýokary hilli we möhletinde ýerine ýetirýän işine ökde, hyzmata taýyn firma hökmünde tanatdy.
-                      Biz gurluşyk we elektrogurnama işleri üçin "Türkmen enjam" HJ-ni maslahat berýäris.
+                      Während der Zusammenarbeit erwies sich "Turkmen enjam" als kompetentes, obligatorisches Unternehmen, das alle Arbeiten effizient und pünktlich erledigte. Wir empfehlen unser
+                      Unternehmen "Turkmen enjam" für Bau- und Elektroarbeiten.
                   </p>
 
                   <footer>ZEMIN, INŞAAT, MAKINA, GEMI SAN. ve TIC. LTD. ŞTI.</footer>
@@ -681,7 +667,7 @@
 
             <div class="center">
 
-              <h1 class="underline no-margin">BIZIŇ TASLAMALARMYZ</h1>
+              <h1 class="underline no-margin">Unsere projekte</h1>
 
             </div>
 
@@ -699,23 +685,23 @@
                   <div class="iframely-embed">
                       <iframe src='https://my.mail.ru/video/embed/9210253609004957698' width='600' height='400' frameborder='0' scrolling='no' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                   </div>
-                  <div class="embed_text">
-                      <h4>IRI PANELLI JAÝ GURLUŞYK ZAWODYNYŇ DURKUNYŇ TÄZELENILMEGI</h4>
+                  <div class="embed_text white_back">
+                      <h4>Wiederaufbau einer hausbauanlage mit grosser platte</h4>
                       <ul>
-                          <li>Önümçilik sehleriniň täzelenen bezegi we häzirki zaman tehnologiki prosesler</li>
-                          <li>Paletleriň täze görnüşleri we DB panelleriniň taýýarlanylmagy üçin kasseta görnüşleri</li>
-                          <li>Täzelenen ýokary tehnologiki enjamlar, häzirki zaman tehnikalar we prosesiň gurallary</li>
-                          <li>Dürli gurluşdaky täzelenen awtomatlaşdyrylan kranlar we beýleki göteriji mehanizmler</li>
+                          <li>Aktualisiertes Design von Produktionswerkstätten und modernen technologischen Prozessen</li>
+                          <li>Neue Formen von Paletten und Kassettenformen für die Herstellung von Stahlbetonplatten</li>
+                          <li>Aktualisierte Hightech-Geräte, moderne Technologie und Prozessgeräte</li>
+                          <li>Aktualisierte automatisierte Krane verschiedener Konstruktionen und anderer Hebemechanismen</li>
                       </ul>
                   </div>
                   <div class="clearfix"></div>
                 <ul>
 
-                    <li class="filter button border medium active" data-filter="all">Hemmesi</li>
+                    <li class="filter button border medium active" data-filter="all">Alle anzeigen</li>
             
-                    <li class="filter button border medium" data-filter="building">Gurluşyk</li>
+                    <li class="filter button border medium" data-filter="building">Bau</li>
             
-                    <li class="filter button border medium" data-filter="reconstruction">Täzelenme</li>
+                    <li class="filter button border medium" data-filter="reconstruction">Wiederaufbau</li>
             
 
 
@@ -737,11 +723,11 @@
 
             <span>
 
-              <h4 class="underline heading-description">DESGALARYŇ GURLUŞYGY</h4>
+              <h4 class="underline heading-description">Bau von einrichtungen</h4>
 
               <p class="center description">
-                  Sowuk kislorodyň saklanylýan desgasynyň, transformator zolagynyň gurluşygy, "gaz-benzin" taslamasynda ýangyn turba geçrijileriniň gurluşygy.
-                  <br>Baş potratçy: Renaissance Heavy Industries
+                  Bau von Kältesauerstoffspeichern, einer Transformatorzone, Bau von Feuerwehrleuten und Pipelines für das Gas-Benzin-Projekt.
+                  <br>Generalunternehmer: Renaissance Heavy Industries
               </p>
 
             </span>
@@ -760,13 +746,13 @@
 
               <span>
 
-                <h4 class="underline heading-description">ZAWODLARYŇ DURKUNYŇ TÄZELENILMEGI</h4>
+                <h4 class="underline heading-description">Pflanzenrekonstruktion</h4>
 
                 <p class="center description">
-                    Aşgabadyň iri panelli jaý gurluşyk zawodynyň durkunyň täzelenilmegi
-                    DB panellerini taýýarlamak üçin paletleriň täze görnüşleriniň we kasseta görnüşleriniň gurnalmagy <br>
-                    Doly awtomatlaşdyrylan gurluşda enjamlaryň gurnalmagy <br>
-                    Önümçilik sehleriniň täzelenen dizaýny
+                    Rekonstruktion des Aschgabat-Werks im großflächigen Wohnungsbau. <br>
+                    Installation neuer Formen von Paletten und Kassettenformen zur Herstellung<br> von Stahlbetonplatten <br>
+                    Installation von Geräten bei vollautomatischer Installation<br>
+                    Aktualisiertes Design der Produktionswerkstätten
                 </p>
 
               </span>
@@ -783,10 +769,10 @@
 
               <span>
 
-                <h4 class="underline heading-description">KÄRHANANYŇ DURKUNYŇ TÄZELENILMEGI</h4>
+                <h4 class="underline heading-description">Wiederaufbau des unternehmens</h4>
 
                 <p class="center description">
-                    Abadanyň gurluşyk materiallary kärhanasynyň demir-beton köpri gurnamalaryny öndürýän I-II ara gerimleriniň durkuny täzelemek.
+                    Rekonstruktion von I-II Spannweiten für die Herstellung von Stahlbetonbrückenkonstruktionen des Abadan-Baustoffunternehmens.
                 </p>
 
               </span>
@@ -803,10 +789,10 @@
 
             <span>
 
-              <h4 class="underline heading-description">SUW HOJALYK ÇÄRELERI</h4>
+              <h4 class="underline heading-description">Massnahmen zur wasserverwaltung</h4>
 
               <p class="center description">
-                  Ahal welaýatynda umumy meýdany 25 müň ga ýere suwaryş üçin suwlary bermek hem-de bu ýerden kollektor-drenaž suwlaryny sowmak boýunça suw hojalyk çäreleri.
+                  Wassermanagementmaßnahmen für die Versorgung mit Bewässerungswasser und die Entwässerung von Sammelwässer aus Flächen mit einer Gesamtfläche von 25.000 Hektar in der Region Ahal.
               </p>
 
             </span>
@@ -823,10 +809,10 @@
 
             <span>
 
-              <h4 class="underline heading-description">AWTOÝOL KÖPRÜLERINIŇ GURLUŞYGY</h4>
+              <h4 class="underline heading-description">Bau von strassenbrücken</h4>
 
               <p class="center description">
-                  ZEMIN INSAAT, MAKINA GEMI SAN. ve TIC. LTD. STI. (Türkiýe). bilen bilelikde awtoýollar üçin köprüleriň gurluşygy.
+                  Bau von Straßenbrücken im Konsortium mit ZEMIN INSAAT, MAKINA GEMI SAN. ve TIC. LTD. STI. (Türkei).
               </p>
 
             </span>
@@ -843,11 +829,10 @@
 
             <span>
 
-              <h4 class="underline heading-description">DESGALARYŇ GURLUŞYGY</h4>
+              <h4 class="underline heading-description">Bau von einrichtungen</h4>
 
               <p class="center description">
-                  Lebap welaýatynda ýerleşýän, A blokda (GÖZ-1) tebigy gazy gaýtadan işleýän  zawodyň gurluşygyndaky wagtlaýyn energiýa üpjünçiligi.
-                  <br>Baş potratçy: "CNPC". (Hytaý)
+                  Temporäre Stromversorgung während des Baus einer Erdgasaufbereitungsanlage in Block A (GPZ-1) in der Region Lebap. <br>Generalunternehmer: CNPC. (China)
               </p>
 
             </span>
@@ -872,11 +857,11 @@
 
 
     <div id="extra_options" class="row-back white_back" style="border-bottom: none;" >
-        <div class="w-container" style="height: 80%;">
+        <div class="w-container">
 
             <div class="center">
-                <h2>TEHNIKA WE ÖNÜMÇILIK</h2>
-                <h5><strong class="">Ýokary hilli </strong>tehnika we enjamlar.</h5><br>
+                <h2>Technologie und produktion</h2>
+                <h5><strong class="">Hochwärtige Maschinen und Geräte</strong></h5><br>
             </div>
             <div class="center w-col w-col-6" >
                 <div class="vehicle-img-block" style="height: 100%;">
@@ -886,17 +871,17 @@
 
             <div class="w-col w-col-6">
                 <div class="vehicle-text-block">
-                    <h4>ÝERDE WE SUWDA IŞLEÝÄN EKSKAWATOR (Bell&shy;-&shy;Caterpillar)</h4>
-                    <h5>ENJAMLARYŇ KONSTRUKTIW ELEMENTLERI</h5>
+                    <h4>Erdwasserbagger (Bell&shy;-&shy;Caterpillar)</h4>
+                    <h5>Konstruktionselemente der ausrüstung</h5>
                     <ul>
-                        <li>Ekskawator ştabeleri</li>
-                        <li>Ekskawatordaky wibrasion çekiç</li>
+                        <li>Baggerstapler</li>
+                        <li>Wibrationshammer an einem Bagger</li>
                     </ul>
 
-                    <h5>MÜMKINÇILIKLER</h5>
+                    <h5>Möglichkeiten</h5>
                     <ul>
-                        <li>Suwda we gury ýerde ýer işlerini alyp barmak mümkinçiligi</li>
-                        <li>Gidrawliki wintleriň kömegi bilen suwda ýöremek mümkinçiligi</li>
+                        <li>Fähigkeit, Erdarbeiten auf dem Wasser und an Land durchzuführen</li>
+                        <li>Bewegungsfähigkeit im Wasser durch Hydraulikschrauben </li>
                     </ul>
 
                 </div>
@@ -911,11 +896,11 @@
 
             <div class="w-col w-col-6" id="tubes-text">
                 <div class="prod-text-block">
-                    <h4>TURBALARYŇ ÖNÜMÇILIGI</h4>
+                    <h4>Rohrproduktion</h4>
                     <ul>
-                        <li>Ýokary basyşly suw geçiriji turbalary we gaz geçiriji turbalary</li>
-                        <li>Elektrogurnama işleri üçin elektrogoragly materialdan maýyşgak gofrirlenen turbalar</li>
-                        <li>Basyşsyz turba geçrijileri üçin iki gatly profilirlenen diwarly turbalar </li>
+                        <li>Hochdruckwasserleitungen und Gasleitungen</li>
+                        <li>Flexible Wellrohre aus elektrischem Isolationsmaterial für elektrische Arbeiten</li>
+                        <li>Rohr emit zweischichtiger Profilwand für Rohrleitungen ohne Druck</li>
                     </ul>
                 </div>
             </div>
@@ -942,7 +927,7 @@
     <div class="row-gree" id="clients_section">
       <div class="w-container wrap-normal">
         <div class="center">
-          <h1 class="underline">BIZIŇ HYZMATDAŞLARYMYZ</h1>
+          <h1 class="underline">UNSERE PARTNER</h1>
         </div>
       </div>
     </div>
@@ -952,38 +937,12 @@
     <div class="w-container wrap-normal">
 
         <div class="center">
-            <h2>BIZIŇ HYZMATDAŞLARMYZ HAKYNDA GYSGAÇA MAGLUMAT</h2>
+            <h2>Kurzer überblick über unsere partner</h2>
             <p>
-                Taslamalaşdyrmagyň, gurluşygyň we önümçiligiň hemme ugurlarynda uly tejribesi bolan kompaniýalar biziň hyzmatdaşlarymyzdyr.
-                <br>Bu işleriň ýokary derejesini we ygtybarlylygyny kepillendirýär.
+                Unsere Partner sind Unternehmen mit umfassender Erfahrung in allen Bereichen von Design, Konstruktion und Produktion.
+                <br>Dies garantiert ein hohes Maß an Arbeit und Zuverlässigkeit.
             </p>
         </div>
-
-<!--        <div class="clients-sub">-->
-<!---->
-<!--            <div id="clients">-->
-<!---->
-<!--                <div class="clients-wrap">-->
-<!---->
-<!--                    <ul id="clients-list" class="clearfix clients-ul">-->
-<!---->
-<!--                        <li><img class="partners-img" src="images/imgs/ebawe_logo.png" alt="logo"></li>-->
-<!---->
-<!--                        <li class="li-pwt enlarge-img"><img src="images/imgs/PWT_logo_web.png" alt="logo"></li>-->
-<!---->
-<!--                        <li><img class="partners-img" src="images/imgs/solimec_logo.png" alt="logo"></li>-->
-<!---->
-<!--                        <li class="enlarge-img"><img src="images/imgs/deneyim_logo.png" alt="logo"></li>-->
-<!---->
-<!---->
-<!---->
-<!--                    </ul>-->
-<!---->
-<!--                </div><!-- @end .clients-wrap -->
-<!---->
-<!--            </div><!-- @end #clients -->
-<!---->
-<!--        </div>-->
 
     </div>
 
@@ -997,7 +956,7 @@
                   <div class="logo-item"><img class="logo-allign-middle_text" src="images/imgs/partners/gurlusyk.gif" alt="logo"></div>
                   <div class="logo-item"><img class="logo-allign-middle_text partners-img" src="images/imgs/partners/ashgabathakimlik.gif" alt="logo"></div>
                   <div class="logo-item"><img class="logo-allign-middle_text partners-img" src="images/imgs/partners/welayathakimlik.gif" alt="logo"></div>
-              </div>
+            </div>
           </div>
       </div>
 
@@ -1018,39 +977,6 @@
 
 <!--    ------>
 
-<!---->
-<!--<div class="row-back clients_extra">-->
-<!---->
-<!--    <div class="w-container wrap-normal">-->
-<!---->
-<!--        <div class="clients-sub">-->
-<!---->
-<!--            <div id="clients">-->
-<!---->
-<!--                <div class="clients-wrap">-->
-<!---->
-<!--                    <ul id="clients-list2" class="clearfix clients-ul">-->
-<!---->
-<!---->
-<!--                        <li class="li-hawkeye"><img src="images/imgs/hawkeye_logo.png" alt="logo"></li>-->
-<!---->
-<!--                        <li><img src="images/imgs/renaissance_logo2.png" alt="logo"></li>-->
-<!---->
-<!--                        <li class="enlarge-img"><img src="images/imgs/ratec_logo2.png" alt="logo"></li>-->
-<!---->
-<!--                        <li id="cnpc-logo"><img src="images/imgs/cnpc_logo.png" alt="logo"></li>-->
-<!---->
-<!--                    </ul>-->
-<!---->
-<!--                </div><!-- @end .clients-wrap -->
-<!---->
-<!--            </div><!-- @end #clients -->
-<!---->
-<!--        </div>-->
-<!---->
-<!--    </div>-->
-<!---->
-<!--</div>-->
 
 
     <!--///////////////////////////////////////////////////////
@@ -1080,18 +1006,19 @@
 
      <div class="footer row-gree" id="contact">
          <div class="footer_text">
-             <strong>Salgy</strong><br><br><br><br>
-             <p>Baba Annanow köç. 157</p><br>
+             <strong>Adresse</strong><br><br><br><br>
+             <p>Baba Annanov Straße, 157</p><br>
              <p>Telefon: +99 312 76 12 52</p><br>
-             <p>Faks: +99 312 76 12 30</p><br>
+             <p>Fax: +99 312 76 12 30</p><br>
              <p>Email: info@turkmenenjam.com</p>
              <div class="social-footter">
                  <a href="https://www.facebook.com/turkmenenjam.hj" target="_blank"><i class="facebookelegance-icons-"></i></a>
                  <a href="https://twitter.com/turkmenenjam" target="_blank"><i class="twitter-birdelegance-icons-"></i></a>
              </div>
+
          </div>
 
-         <div class="w-container wrap-normal center footer_copyright"><span>© </span><span class=""><strong>Türkmen Enjam HJ</strong></span> <? echo(date("Y")); ?> </div>
+         <div class="w-container wrap-normal center footer_copyright"><span>© </span><span class=""><strong>Turkmen Enjam</strong></span> <? echo(date("Y")); ?> </div>
 
      </div>
 
@@ -1118,11 +1045,15 @@
   <script src="js/waypoints.min.js"></script>
   <script src="js/scripts.js"></script>
 
-  <script type="text/javascript" src="slick/slick.min.js"></script>
-
-  <script type="text/javascript" src="js/slick-slider.js"></script>
+<!--slick slider js-->
+<!--    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>-->
+<!--    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>-->
+    <script type="text/javascript" src="slick/slick.min.js"></script>
 
 <!--   END JQUERY PLUGINS LOAD-->
+
+<script type="text/javascript" src="js/slick-slider.js"></script>
+
 <!--    START OF BITRIX24 ONLINE CHAT-->
     <script>
         (function(w,d,u){

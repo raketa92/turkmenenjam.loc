@@ -8,8 +8,8 @@
   <!-- END TITLE -->
 
     <!-- START META, DESCRIPTION, KEYWORDS, AUTHOR -->
-    <meta name="description" content="Строительство сооружений, реконструкция заводов и предприятий" />
-    <meta name="keywords" content="Строительство, реконструкция" />
+    <meta name="description" content="Construction of facilities, reconstruction of factories and enterprises" />
+    <meta name="keywords" content="Construction, reconstruction" />
     <!--  <meta name="author" content="carinotechnologies" />-->
     <!-- END META, DESCRIPTION, KEYWORDS, AUTHOR -->
 
@@ -68,6 +68,7 @@
                 <a href="index.php">RU</a>
                 <a href="index_tm.php">TM</a>
                 <a href="index_us.php">EN</a>
+                <a href="index_de.php">DE</a>
             </div>
         </div>
 

@@ -2692,6 +2692,11 @@ top: 1px;
   background: url('/images/flags/usa_16.png') no-repeat left center;
 }
 
+.de_flag {
+  background: url('/images/flags/germany_16.gif') no-repeat left center;
+}
+
+
 .dropbtn span {
   background: rgba(0, 0, 0, 0) url("https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_keyboard_arrow_down_48px-16.png") no-repeat scroll center center;
   content: "";
@@ -2716,12 +2721,26 @@ top: 1px;
   background-position-x: 3px;
 }
 
-.dropdown-content a:last-child
+.dropdown-content a:nth-child(3)
 {
   background: url('/images/flags/usa_16.png') no-repeat left center;
   -ms-background-position-x: 3px;
   background-position-x: 3px;
 }
+
+.dropdown-content a:nth-child(4)
+{
+  background: url('/images/flags/germany_16.gif') no-repeat left center;
+  -ms-background-position-x: 3px;
+  background-position-x: 3px;
+}
+
+/*.dropdown-content a:last-child*/
+/*{*/
+  /*background: url('/images/flags/usa_16.png') no-repeat left center;*/
+  /*-ms-background-position-x: 3px;*/
+  /*background-position-x: 3px;*/
+/*}*/
 
 /* Links inside the dropdown */
 .dropdown-content a {

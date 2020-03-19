@@ -68,6 +68,7 @@
                 <a href="index.php">RU</a>
                 <a href="index_tm.php">TM</a>
                 <a href="index_us.php">EN</a>
+                <a href="index_de.php">DE</a>
             </div>
         </div>
 
@@ -818,7 +819,7 @@
 
             <span>
 
-              <h4 class="underline heading-description">СТРОИТЕЛЬСТВО АВТОДОРОЖНЫХ МОСТОВ</h4>
+              <h4 class="underline heading-description">Строительство автодорожных мостов</h4>
 
               <p class="center description">
                   Строительство мостов для автодорог в консорциуме с ZEMIN INSAAT, MAKINA GEMI SAN. ve TIC. LTD. STI. (Турция).
