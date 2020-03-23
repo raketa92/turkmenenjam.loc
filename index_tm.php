@@ -886,7 +886,7 @@
 
             <div class="w-col w-col-6">
                 <div class="vehicle-text-block">
-                    <h4>ÝERDE WE SUWDA IŞLEÝÄN EKSKAWATOR (Bell&shy;-&shy;Caterpillar)</h4>
+                    <h4>ÝERDE WE SUWDA IŞLEÝÄN EKSKAWATOR (Bell&shy;Caterpillar)</h4>
                     <h5>ENJAMLARYŇ KONSTRUKTIW ELEMENTLERI</h5>
                     <ul>
                         <li>Ekskawator ştabeleri</li>
