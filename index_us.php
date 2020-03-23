@@ -161,9 +161,9 @@
                         <div class="center fixed-content">
                             <div class="center-fix">
                                 <h1 class="underline animated fadeInDown">TURKMENENJAM</h1>
-                                <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Инновационные решения в <strong class="">области строительства</strong></h4>
-                                <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Функции</a>
-                                <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Связаться с нами</a>
+                                <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Innovative solutions in the field <strong class="">of construction </strong></h4>
+                                <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Functions</a>
+                                <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Contact us</a>
                             </div>
                         </div>
                     </div>
@@ -176,9 +176,9 @@
                         <div class="center fixed-content">
                             <div class="center-fix">
                                 <h1 class="underline animated fadeInDown">TURKMENENJAM</h1>
-                                <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Инновационные решения в <strong class="">области строительства</strong></h4>
-                                <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Функции</a>
-                                <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Связаться с нами</a>
+                                <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Innovative solutions in the field <strong class="">of construction </strong></h4>
+                                <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Functions</a>
+                                <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Contact us</a>
                             </div>
                         </div>
                     </div>
@@ -191,9 +191,9 @@
                         <div class="center fixed-content">
                             <div class="center-fix">
                                 <h1 class="underline animated fadeInDown">TURKMENENJAM</h1>
-                                <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Инновационные решения в <strong class="">области строительства</strong></h4>
-                                <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Функции</a>
-                                <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Связаться с нами</a>
+                                <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Innovative solutions in the field <strong class="">of construction </strong></h4>
+                                <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Functions</a>
+                                <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Contact us</a>
                             </div>
                         </div>
                     </div>
@@ -206,9 +206,9 @@
                         <div class="center fixed-content">
                             <div class="center-fix">
                                 <h1 class="underline animated fadeInDown">TURKMENENJAM</h1>
-                                <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Инновационные решения в <strong class="">области строительства</strong></h4>
-                                <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Функции</a>
-                                <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Связаться с нами</a>
+                                <h4 class="animated fadeInUp delay-05s" style="margin-bottom: 50px;">Innovative solutions in the field <strong class="">of construction </strong></h4>
+                                <a class="button animated fadeInUp delay-1s" href="index.php#features" style="margin-right: 1%;"><span><i class="cogelegance-icons-"></i></span>Functions</a>
+                                <a id="home-contact-button" class="button border animated fadeInUp delay-1s" href="index.php#contact">Contact us</a>
                             </div>
                         </div>
                     </div>
