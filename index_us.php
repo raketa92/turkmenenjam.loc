@@ -879,7 +879,7 @@
 
             <div class="w-col w-col-6">
                 <div class="vehicle-text-block">
-                    <h4>EARTHWATER EXCAVATOR (Bell&shy;Caterpillar)</h4>
+                    <h4>EARTHWATER EXCAVATOR (Bell&shy;-&shy;Caterpillar)</h4>
                     <h5>CONSTRUCTION ELEMENTS OF EQUIPMENT</h5>
                     <ul>
                         <li>Excavator stacker</li>

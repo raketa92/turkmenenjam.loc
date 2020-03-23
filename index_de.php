@@ -871,7 +871,7 @@
 
             <div class="w-col w-col-6">
                 <div class="vehicle-text-block">
-                    <h4>Erdwasserbagger (Bell&shy;Caterpillar)</h4>
+                    <h4>Erdwasserbagger (Bell&shy;-&shy;Caterpillar)</h4>
                     <h5>Konstruktionselemente der ausrüstung</h5>
                     <ul>
                         <li>Baggerstapler</li>
