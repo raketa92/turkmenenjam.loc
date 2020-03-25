@@ -1017,7 +1017,10 @@
          <div class="footer_text">
              <strong>Address</strong><br><br><br><br>
              <p>157 Baba Annanov street</p><br>
-             <p>Phone: +99 312 76 12 52</p><br>
+             <p>Ashgabat, 744013, Turkmenistan</p><br>
+             <p>Phone:</p><br>
+             <p>+99 312 76 12 52</p><br>
+             <p>+99 312 21 02 83</p><br>
              <p>Fax: +99 312 76 12 30</p><br>
              <p>Email: info@turkmenenjam.com</p>
              <div class="social-footter">

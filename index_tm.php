@@ -1082,7 +1082,10 @@
          <div class="footer_text">
              <strong>Salgy</strong><br><br><br><br>
              <p>Baba Annanow köç. 157</p><br>
-             <p>Telefon: +99 312 76 12 52</p><br>
+             <p>Aşgabat, 744013, Türkmenistan</p><br>
+             <p>Telefon: </p><br>
+             <p>+99 312 76 12 52</p><br>
+             <p>+99 312 21 02 83</p><br>
              <p>Faks: +99 312 76 12 30</p><br>
              <p>Email: info@turkmenenjam.com</p>
              <div class="social-footter">

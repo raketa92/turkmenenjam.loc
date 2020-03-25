@@ -1017,110 +1017,6 @@
 
 <!--    ------>
 
-<!--<div class="row-back clients_extra">-->
-<!---->
-<!--    <div class="w-container wrap-normal">-->
-<!---->
-<!--        <div class="clients-sub">-->
-<!---->
-<!--            <div id="clients">-->
-<!---->
-<!--                <div class="clients-wrap">-->
-<!---->
-<!--                    <ul id="clients-list2" class="clearfix clients-ul">-->
-<!---->
-<!---->
-<!--                        <li><img class="partners-img" src="images/imgs/partners/turkmengaz_logo.gif" alt="logo"></li>-->
-<!---->
-<!--                        <li class="li-pwt enlarge-img"><img src="images/imgs/partners/turkmennebit.png" alt="logo"></li>-->
-<!---->
-<!--                        <li><img class="partners-img" src="images/imgs/partners/turkmenhimiya.png" alt="logo"></li>-->
-<!---->
-<!--                        <li class="enlarge-img"><img src="images/imgs/partners/tm_gerb.png" alt="logo"></li>-->
-<!---->
-<!--                    </ul>-->
-<!---->
-<!--                </div><!-- @end .clients-wrap -->
-<!---->
-<!--            </div><!-- @end #clients -->
-<!---->
-<!--        </div>-->
-<!---->
-<!--    </div>-->
-<!---->
-<!--</div>-->
-
-<!--   -->
-
-<!--<div class="row-back clients_extra">-->
-<!---->
-<!--    <div class="w-container wrap-normal">-->
-<!---->
-<!--        <div class="clients-sub">-->
-<!---->
-<!--            <div id="clients">-->
-<!---->
-<!--                <div class="clients-wrap">-->
-<!---->
-<!--                    <ul id="clients-list2" class="clearfix clients-ul">-->
-<!---->
-<!---->
-<!--                        <li><img class="partners-img" src="images/imgs/ebawe_logo.png" alt="logo"></li>-->
-<!---->
-<!--                        <li class="li-pwt enlarge-img"><img src="images/imgs/PWT_logo_web.png" alt="logo"></li>-->
-<!---->
-<!--                        <li><img class="partners-img" src="images/imgs/solimec_logo.png" alt="logo"></li>-->
-<!---->
-<!--                        <li class="enlarge-img"><img src="images/imgs/deneyim_logo.png" alt="logo"></li>-->
-<!---->
-<!--                    </ul>-->
-<!---->
-<!--                </div><!-- @end .clients-wrap -->
-<!---->
-<!--            </div><!-- @end #clients -->
-<!---->
-<!--        </div>-->
-<!---->
-<!--    </div>-->
-<!---->
-<!--</div>-->
-
-<!--   -->
-
-
-<!--<div class="row-back clients_extra">-->
-<!---->
-<!--    <div class="w-container wrap-normal">-->
-<!---->
-<!--        <div class="clients-sub">-->
-<!---->
-<!--            <div id="clients">-->
-<!---->
-<!--                <div class="clients-wrap">-->
-<!---->
-<!--                    <ul id="clients-list2" class="clearfix clients-ul">-->
-<!---->
-<!---->
-<!--                        <li class="li-hawkeye"><img src="images/imgs/hawkeye_logo.png" alt="logo"></li>-->
-<!---->
-<!--                        <li><img src="images/imgs/renaissance_logo2.png" alt="logo"></li>-->
-<!---->
-<!--                        <li class="enlarge-img"><img src="images/imgs/ratec_logo2.png" alt="logo"></li>-->
-<!---->
-<!--                        <li id="cnpc-logo"><img src="images/imgs/cnpc_logo.png" alt="logo"></li>-->
-<!---->
-<!--                    </ul>-->
-<!----
-<!--                </div><!-- @end .clients-wrap -->
-<!----
-<!--            </div><!-- @end #clients -->
-<!---->
-<!--        </div>-->
-<!---->
-<!--    </div>-->
-<!---->
-<!--</div>-->
-
 
     <!--///////////////////////////////////////////////////////
 
@@ -1150,8 +1046,11 @@
      <div class="footer row-gree" id="contact">
          <div class="footer_text">
              <strong>Адрес</strong><br><br><br><br>
-             <p>ул. Баба Аннанов 157</p><br>
-             <p>Телефон: +99 312 76 12 52</p><br>
+             <p>ул. Баба Аннанов 157,</p><br>
+             <p>Ашхабад, 744013, Туркменистан</p> <br>
+             <p>Телефон:</p><br>
+             <p>+99 312 76 12 52</p><br>
+             <p>+99 312 21 02 83</p><br>
              <p>Факс: +99 312 76 12 30</p><br>
              <p>Email: info@turkmenenjam.com</p>
              <div class="social-footter">
