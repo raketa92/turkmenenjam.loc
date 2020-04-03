@@ -132,12 +132,7 @@
                   </nav>
                   <!-- END NAVIGATION LINKS -->
 
-                  <!-- START MOBILE NAVIGATION BUTTON * DO NOT DELETE THIS DIV* -->
-<!--                  <div class="w-nav-button">-->
-<!--                    <div class="w-icon-nav-menu"></div>-->
-<!--                  </div><!-- END MOBILE NAVIGATION BUTTON -->
-
-                    <!-- Top Navigation Menu -->
+                  <!-- Top Navigation Menu -->
 
                 </div>
                 <!-- END CONTAINER -->
@@ -465,8 +460,6 @@
                       characteristic features that must be taken into account when developing construction projects for the production workshops of various enterprises.
                   </p>
 
-                  <!--<a class="button wp8 delay-05s">Read More</a>-->
-
                 </div>
 
               </div>
@@ -479,8 +472,6 @@
                       Project preparation begins with the selection of all components of the future production process, which should be optimally placed on the provided facility area in
                       accordance with the parameters of the workshop premises. This is necessary to create a reliable, productive and durable enterprise with minimal economic costs and time costs.
                   </p>
-
-                  <!--<a class="button border wp7 delay-05s">Buy Now!</a>-->
 
                 </div>
 
@@ -709,8 +700,6 @@
                     <li class="filter button border medium" data-filter="building">Building</li>
             
                     <li class="filter button border medium" data-filter="reconstruction">Reconstruction</li>
-            
-
 
                 </ul>
 

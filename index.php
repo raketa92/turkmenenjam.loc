@@ -10,7 +10,6 @@
   <!-- START META, DESCRIPTION, KEYWORDS, AUTHOR -->
   <meta name="description" content="Строительство сооружений, реконструкция заводов и предприятий" />
   <meta name="keywords" content="Строительство, реконструкция" />
-<!--  <meta name="author" content="carinotechnologies" />-->
   <!-- END META, DESCRIPTION, KEYWORDS, AUTHOR -->
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -39,10 +38,6 @@
   <!-- LOAD GOOGLE FONT OPEN SANS -->
   <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,300,400,600,700" rel="stylesheet" type="text/css">
   <!-- END GOOGLE FONT OPEN SANS -->
-
-  <!-- START AJAX WEBFONTS -->
-<!--  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>-->
-  <!-- END AJAX WEBFONTS -->
 
   <!-- START MOBILE DETECT -->
   <script>if (/mobile/i.test(navigator.userAgent)) document.documentElement.className += ' w-mobile';</script>
@@ -133,11 +128,6 @@
 
                   </nav>
                   <!-- END NAVIGATION LINKS -->
-
-                  <!-- START MOBILE NAVIGATION BUTTON * DO NOT DELETE THIS DIV* -->
-<!--                  <div class="w-nav-button">-->
-<!--                    <div class="w-icon-nav-menu"></div>-->
-<!--                  </div><!-- END MOBILE NAVIGATION BUTTON -->
 
                     <!-- Top Navigation Menu -->
 
@@ -466,8 +456,6 @@
                       характерные особенности, которые необходимо учитывать при разработке строительных проектов для производственных цехов различных предприятий.
                   </p>
 
-                  <!--<a class="button wp8 delay-05s">Read More</a>-->
-
                 </div>
 
               </div>
@@ -481,8 +469,6 @@
                       в соответствии с параметрами цехового помещения. Это необходимо для создания надежного, производительного и долговечного предприятия при минимальных экономических издержках
                       и временных затратах.
                   </p>
-
-                  <!--<a class="button border wp7 delay-05s">Buy Now!</a>-->
 
                 </div>
 
@@ -713,8 +699,6 @@
             
                     <li class="filter button border medium" data-filter="reconstruction">Реконструкция</li>
             
-
-
                 </ul>
 
               </div>
@@ -953,35 +937,6 @@
                 <br>Это гарантирует высокий уровень работ и надежность.
             </p>
         </div>
-
-<!--        <div class="clients-sub">-->
-<!---->
-<!--            <div id="clients">-->
-<!---->
-<!--                <div class="clients-wrap">-->
-<!---->
-<!--                    <ul id="clients-list" class="clearfix clients-ul">-->
-<!---->
-<!--                        <li><img class="partners-img" src="images/imgs/partners/turkmengaz_logo.gif" alt="logo"></li>-->
-<!---->
-<!--                        <li class="li-pwt enlarge-img"><img src="images/imgs/partners/turkmennebit.png" alt="logo"></li>-->
-<!---->
-<!--                        <li><img class="partners-img" src="images/imgs/partners/turkmenhimiya.png" alt="logo"></li>-->
-<!---->
-<!--                        <li class="enlarge-img"><img src="images/imgs/partners/tm_gerb.png" alt="logo"></li>-->
-<!---->
-<!--                    </ul>-->
-<!---->
-<!--                </div><!-- @end .clients-wrap -->
-<!---->
-<!--            </div><!-- @end #clients -->
-<!---->
-<!--        </div>-->
-
-
-
-
-
 
 
     </div>

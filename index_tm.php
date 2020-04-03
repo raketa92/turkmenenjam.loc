@@ -10,7 +10,6 @@
     <!-- START META, DESCRIPTION, KEYWORDS, AUTHOR -->
     <meta name="description" content="Desgalaryň gurluşygy, zawodlaryň we edalaryň durkuny täzeleme" />
     <meta name="keywords" content="Gurluşyk, durkuny täzeleme, abatlama" />
-    <!--  <meta name="author" content="carinotechnologies" />-->
     <!-- END META, DESCRIPTION, KEYWORDS, AUTHOR -->
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -132,12 +131,7 @@
                   </nav>
                   <!-- END NAVIGATION LINKS -->
 
-                  <!-- START MOBILE NAVIGATION BUTTON * DO NOT DELETE THIS DIV* -->
-<!--                  <div class="w-nav-button">-->
-<!--                    <div class="w-icon-nav-menu"></div>-->
-<!--                  </div><!-- END MOBILE NAVIGATION BUTTON -->
-
-                    <!-- Top Navigation Menu -->
+                  <!-- Top Navigation Menu -->
 
                 </div>
                 <!-- END CONTAINER -->
@@ -468,8 +462,6 @@
                       öz häsiýetli aýratynlyklary bolup, olary dürli kärhanalaryň önümçilik sehleri üçin gurluşyk taslamalary işlenip düzülende nazara almak zerurdyr.
                   </p>
 
-                  <!--<a class="button wp8 delay-05s">Read More</a>-->
-
                 </div>
 
               </div>
@@ -483,8 +475,6 @@
                       mümkin boldugyndan amatly edip ýerleşdirilmelidir. Bu minimal ykdysady harajatlar we wagtlaýyn çykdajylar bilen ygtybarly, öndürijiliklii we uzak möhletleýin kärhanany
                       döretmek üçin zerurdyr.
                   </p>
-
-                  <!--<a class="button border wp7 delay-05s">Buy Now!</a>-->
 
                 </div>
 
@@ -717,8 +707,6 @@
             
                     <li class="filter button border medium" data-filter="reconstruction">Täzelenme</li>
             
-
-
                 </ul>
 
               </div>
@@ -959,32 +947,6 @@
             </p>
         </div>
 
-<!--        <div class="clients-sub">-->
-<!---->
-<!--            <div id="clients">-->
-<!---->
-<!--                <div class="clients-wrap">-->
-<!---->
-<!--                    <ul id="clients-list" class="clearfix clients-ul">-->
-<!---->
-<!--                        <li><img class="partners-img" src="images/imgs/ebawe_logo.png" alt="logo"></li>-->
-<!---->
-<!--                        <li class="li-pwt enlarge-img"><img src="images/imgs/PWT_logo_web.png" alt="logo"></li>-->
-<!---->
-<!--                        <li><img class="partners-img" src="images/imgs/solimec_logo.png" alt="logo"></li>-->
-<!---->
-<!--                        <li class="enlarge-img"><img src="images/imgs/deneyim_logo.png" alt="logo"></li>-->
-<!---->
-<!---->
-<!---->
-<!--                    </ul>-->
-<!---->
-<!--                </div><!-- @end .clients-wrap -->
-<!---->
-<!--            </div><!-- @end #clients -->
-<!---->
-<!--        </div>-->
-
     </div>
 
       <div class="w-container">
@@ -1015,43 +977,6 @@
       </div>
 
   </div>
-
-<!--    ------>
-
-<!---->
-<!--<div class="row-back clients_extra">-->
-<!---->
-<!--    <div class="w-container wrap-normal">-->
-<!---->
-<!--        <div class="clients-sub">-->
-<!---->
-<!--            <div id="clients">-->
-<!---->
-<!--                <div class="clients-wrap">-->
-<!---->
-<!--                    <ul id="clients-list2" class="clearfix clients-ul">-->
-<!---->
-<!---->
-<!--                        <li class="li-hawkeye"><img src="images/imgs/hawkeye_logo.png" alt="logo"></li>-->
-<!---->
-<!--                        <li><img src="images/imgs/renaissance_logo2.png" alt="logo"></li>-->
-<!---->
-<!--                        <li class="enlarge-img"><img src="images/imgs/ratec_logo2.png" alt="logo"></li>-->
-<!---->
-<!--                        <li id="cnpc-logo"><img src="images/imgs/cnpc_logo.png" alt="logo"></li>-->
-<!---->
-<!--                    </ul>-->
-<!---->
-<!--                </div><!-- @end .clients-wrap -->
-<!---->
-<!--            </div><!-- @end #clients -->
-<!---->
-<!--        </div>-->
-<!---->
-<!--    </div>-->
-<!---->
-<!--</div>-->
-
 
     <!--///////////////////////////////////////////////////////
 

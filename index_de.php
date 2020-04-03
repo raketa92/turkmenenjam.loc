@@ -10,7 +10,6 @@
   <!-- START META, DESCRIPTION, KEYWORDS, AUTHOR -->
   <meta name="description" content="Bau von Einrichtungen, Wiederaufbau von Fabriken und Unternehmen" />
   <meta name="keywords" content="Bau, Wiederaufbau" />
-<!--  <meta name="author" content="carinotechnologies" />-->
   <!-- END META, DESCRIPTION, KEYWORDS, AUTHOR -->
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -457,8 +456,6 @@
                       charakteristischen Merkmale auf, die bei der Entwicklung von Bauprojekten für die Produktionshallen verschiedenen Unternehmen berücksichtigt werden müssen.
                   </p>
 
-                  <!--<a class="button wp8 delay-05s">Read More</a>-->
-
                 </div>
 
               </div>
@@ -471,8 +468,6 @@
                       Die Vorbereitung des Projekts beginnt mit der Auswahl aller Komponenten des zukünftigen Produktionsprozesses, die gemäß den Parametern des Werkstattgeländes optimal auf dem bereitgestellten
                       Anlagenbereich platziert werden sollen. Dies ist notwendig, um ein zuverlässiges, produktives und dauerhaftes Unternehmen mit minimalen wirtschaftlichen Kosten und Zeitkosten zu schaffen.
                   </p>
-
-                  <!--<a class="button border wp7 delay-05s">Buy Now!</a>-->
 
                 </div>
 
@@ -703,8 +698,6 @@
             
                     <li class="filter button border medium" data-filter="reconstruction">Wiederaufbau</li>
             
-
-
                 </ul>
 
               </div>
