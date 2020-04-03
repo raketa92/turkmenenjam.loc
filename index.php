@@ -711,7 +711,7 @@
 
         <li class="mix building mix_all">
 
-         <a class="image-popup-no-margins"  alt="responsive" href="images/imgs/gas-petrol1.jpg">
+         <a class="image-popup-no-margins"  alt="responsive" href="images/imgs/gas-petrol1-compressor.jpg">
 
             <img src="images/imgs/gas-petrol1_crop.jpg">
 
@@ -734,7 +734,7 @@
 
         <li class="mix reconstruction mix_all">
 
-            <a class="image-popup-no-margins" href="images/imgs/factory7.jpg">
+            <a class="image-popup-no-margins" href="images/imgs/factory7-compressor.jpg">
 
               <img src="images/imgs/factory7_crop.jpg">
 
@@ -757,7 +757,7 @@
 
         <li class="mix reconstruction mix_all">
 
-            <a class="image-popup-no-margins" href="images/imgs/abadan.png">
+            <a class="image-popup-no-margins" href="images/imgs/abadan-compressor.png">
 
               <img src="images/imgs/abadan_front.png">
 
