@@ -842,7 +842,7 @@
 
             <span>
 
-              <h4 class="underline heading-description">Строительство объектов</h4>
+              <h4 class="underline heading-description">Bau von einrichtungen</h4>
 
               <p class="center description">
               In der Koytendag-Falle wird ein Zementwerk mit einer Kapazität von 1 Million Tonnen gebaut.

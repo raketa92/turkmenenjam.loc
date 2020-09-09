@@ -852,7 +852,7 @@
 
             <span>
 
-              <h4 class="underline heading-description">Строительство объектов</h4>
+              <h4 class="underline heading-description">DESGALARYŇ GURLUŞYGY</h4>
 
               <p class="center description">
                 Köýtendag etrabynda kuwwatlylygy 1 mln. tonna sement zawody gurular. 

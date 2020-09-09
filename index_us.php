@@ -846,7 +846,7 @@
 
             <span>
 
-              <h4 class="underline heading-description">Строительство объектов</h4>
+              <h4 class="underline heading-description">CONSTRUCTION OF FACILITIES</h4>
 
               <p class="center description">
               A cement plant with a capacity of 1 million tons will be built in the Koytendag etrap.
