@@ -844,6 +844,27 @@
 
         </li>
 
+        <li class="mix building mix_all">
+
+          <a class="image-popup-no-margins" href="images/imgs/cement_plant11.webp">
+
+            <img src="images/imgs/cement_plant11.webp">
+
+            <span>
+
+              <h4 class="underline heading-description">Строительство объектов</h4>
+
+              <p class="center description">
+                Köýtendag etrabynda kuwwatlylygy 1 mln. tonna sement zawody gurular. 
+                <br> Taslama "Türkmen enjam" HJ tarapyndan amala aşyrylýar. Sement zawody 2022-nji ýylda ulanyşa berler.
+              </p>
+
+            </span>
+
+          </a>
+
+        </li>
+
         </ul>
 
         </div>

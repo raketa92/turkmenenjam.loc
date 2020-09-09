@@ -834,6 +834,27 @@
 
         </li>
 
+        <li class="mix building mix_all">
+
+          <a class="image-popup-no-margins" href="images/imgs/cement_plant11.webp">
+
+            <img src="images/imgs/cement_plant11.webp">
+
+            <span>
+
+              <h4 class="underline heading-description">Строительство объектов</h4>
+
+              <p class="center description">
+              In der Koytendag-Falle wird ein Zementwerk mit einer Kapazität von 1 Million Tonnen gebaut.
+              <br>Das Projekt wird vom Unternehmen "Turkmen enjam" umgesetzt. Das Zementwerk soll 2022 in Betrieb genommen werden.
+              </p>
+
+            </span>
+
+          </a>
+
+        </li>
+
         </ul>
 
         </div>

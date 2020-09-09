@@ -835,6 +835,27 @@
 
         </li>
 
+        <li class="mix building mix_all">
+
+          <a class="image-popup-no-margins" href="images/imgs/cement_plant11.webp">
+
+            <img src="images/imgs/cement_plant11.webp">
+
+            <span>
+
+              <h4 class="underline heading-description">Строительство объектов</h4>
+
+              <p class="center description">
+              Цементный завод мощностью 1 млн.тонн будет построен в Койтендагском этрапе. 
+              <br> Реализацией проекта занимается ХО "Turkmen enjam". Планируется, что цементный завод будет введен в эксплуатацию в 2022 г.
+              </p>
+
+            </span>
+
+          </a>
+
+        </li>
+
         </ul>
 
         </div>

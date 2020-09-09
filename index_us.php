@@ -838,6 +838,27 @@
 
         </li>
 
+        <li class="mix building mix_all">
+
+          <a class="image-popup-no-margins" href="images/imgs/cement_plant11.webp">
+
+            <img src="images/imgs/cement_plant11.webp">
+
+            <span>
+
+              <h4 class="underline heading-description">Строительство объектов</h4>
+
+              <p class="center description">
+              A cement plant with a capacity of 1 million tons will be built in the Koytendag etrap.
+              <br>The project is being implemented by the "Turkmen enjam" enterprise. The cement plant is slated to be commissioned in 2022.
+              </p>
+
+            </span>
+
+          </a>
+
+        </li>
+
         </ul>
 
         </div>
