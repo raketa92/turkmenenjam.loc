@@ -849,7 +849,7 @@
               <h4 class="underline heading-description">CONSTRUCTION OF FACILITIES</h4>
 
               <p class="center description">
-              Design and construction of the 2nd line of a cement plant with a capacity of 1 million tons of cement per year in the Koytendag etrap of the Lebap velayat, Turkmenistan.
+              For the design and construction of the 2nd stage of the cement plant with a capacity of 1 million tons of cement per year in  Koytendag etrap of Lebap velayat, Turkmenistan.
               </p>
 
             </span>
