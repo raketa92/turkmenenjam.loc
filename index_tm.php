@@ -855,7 +855,7 @@
               <h4 class="underline heading-description">DESGALARYŇ GURLUŞYGY</h4>
 
               <p class="center description">
-              LEBAP WELAÝATYNYŇ KÖÝTENDAG ETRABYNDA  ÝYLLYK KUWWATLYLYGY 1 MILLION TONNA SEMENT ÖNDÜRÝÄN ZAWODYNYN 2-NJI TAPGYRNY GURMAK WE TASLAMASYNY DÜZMEK.
+              Lebap welaýatynyň Köýtendag etrabynda  ýyllyk kuwwatlylygy 1 000 000 tonna sement öndürýän zawodynyn  2-nji tapgyrny gurmak we taslamasyny düzmek.
               </p>
 
             </span>
