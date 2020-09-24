@@ -855,8 +855,7 @@
               <h4 class="underline heading-description">DESGALARYŇ GURLUŞYGY</h4>
 
               <p class="center description">
-                Köýtendag etrabynda kuwwatlylygy 1 mln. tonna sement zawody gurular. 
-                <br> Taslama "Türkmen enjam" HJ tarapyndan amala aşyrylýar. Sement zawody 2022-nji ýylda ulanyşa berler.
+              LEBAP WELAÝATYNYŇ KÖÝTENDAG ETRABYNDA  ÝYLLYK KUWWATLYLYGY 1 000 000 TONNA SEMENT ÖNDÜRÝÄN ZAWODYNYN 2-NJI TAPGYRNY GURMAK WE TASLAMASYNY DÜZMEK.
               </p>
 
             </span>

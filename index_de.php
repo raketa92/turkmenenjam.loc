@@ -845,8 +845,7 @@
               <h4 class="underline heading-description">Bau von einrichtungen</h4>
 
               <p class="center description">
-              In der Koytendag-Falle wird ein Zementwerk mit einer Kapazität von 1 Million Tonnen gebaut.
-              <br>Das Projekt wird vom Unternehmen "Turkmen enjam" umgesetzt. Das Zementwerk soll 2022 in Betrieb genommen werden.
+              Entwurf und Bau der 2. Linie eines Zementwerks mit einer Kapazität von 1 Million Tonnen Zement pro Jahr in der Koytendag-Falle des Lebap velayat in Turkmenistan.
               </p>
 
             </span>

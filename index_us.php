@@ -849,8 +849,7 @@
               <h4 class="underline heading-description">CONSTRUCTION OF FACILITIES</h4>
 
               <p class="center description">
-              A cement plant with a capacity of 1 million tons will be built in the Koytendag etrap.
-              <br>The project is being implemented by the "Turkmen enjam" enterprise. The cement plant is slated to be commissioned in 2022.
+              Design and construction of the 2nd line of a cement plant with a capacity of 1 million tons of cement per year in the Koytendag etrap of the Lebap velayat, Turkmenistan.
               </p>
 
             </span>

@@ -3104,3 +3104,7 @@ Waypoints
     font-size: 100% !important;
   }
 }
+
+li.mix img {
+  max-width: 100%;
+}
